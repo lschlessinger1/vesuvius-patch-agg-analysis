@@ -3,7 +3,7 @@ title: vesuvius-patch-agg-analysis
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: report
+type: software
 authors:
   - given-names: Louis
     family-names: Schlessinger
