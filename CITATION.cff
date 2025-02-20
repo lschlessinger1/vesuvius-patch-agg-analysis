@@ -9,6 +9,8 @@ authors:
     family-names: Schlessinger
   - given-names: Arefeh
     family-names: Sherafati
+url: >-
+  https://github.com/lschlessinger1/vesuvius-patch-agg-analysis
 abstract: >-
   Vesuvius Challenge analysis of patch aggregation methods
   in ink detection
