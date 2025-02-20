@@ -1,4 +1,6 @@
 # Analysis of Patch Aggregation Methods in Ink Detection
+[![DOI](https://zenodo.org/badge/935704182.svg)](https://doi.org/10.5281/zenodo.14897648)
+
 [Vesuvius Challenge](https://scrollprize.org/) analysis of patch aggregation methods in ink detection
 
 ## Overview
