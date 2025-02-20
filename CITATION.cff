@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: vesuvius-patch-agg-analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Louis
+    family-names: Schlessinger
+  - given-names: Arefeh
+    family-names: Sherafati
+abstract: >-
+  Vesuvius Challenge analysis of patch aggregation methods
+  in ink detection
+keywords:
+  - vesuvius-challenge
+  - ink-detection
+license: MIT
