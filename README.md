@@ -1,5 +1,5 @@
 # Analysis of Patch Aggregation Methods in Ink Detection
-[Vesuvius Challenge]([url](https://scrollprize.org/)) analysis of patch aggregation methods in ink detection
+[Vesuvius Challenge](https://scrollprize.org/) analysis of patch aggregation methods in ink detection
 
 ## Overview
 This repository contains an analysis of different **patch aggregation methods** used for **ink detection** in the Vesuvius Challenge. The analysis explores various approaches to merging patch-based predictions into a reconstructed ink prediction.
